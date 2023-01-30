@@ -1,0 +1,4 @@
+../Core/Src/bmp180.c:25:7:BMP180_Get_Calibration_Value	56	static
+../Core/Src/bmp180.c:106:7:BMP180_Init	8	static
+../Core/Src/bmp180.c:115:7:BMP180_Get_Uncompansated_Temperature	32	static
+../Core/Src/bmp180.c:129:8:BMP180_Get_Temperature	8	static
